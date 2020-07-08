@@ -1,12 +1,12 @@
 #### Simple Menu CRUD PHP Mysql
 
 1. buat sebuah database (bebas)\
-*jika ingin mengikuti database sesuai file bisa menggunakan nama "pendaftaran_mahasiswa'\
-*cara membuat database : create database "nama bebas";
+jika ingin mengikuti database sesuai file bisa menggunakan nama "pendaftaran_mahasiswa'\
+cara membuat database : create database "nama bebas";
 
 2. buat tabel (nama bebas)\
-*jika ingin mengikuti nama tabel bisa menggunakan nama "calon_mahasiswa"\
-*isi kolom tabel seperti ini :\
+jika ingin mengikuti nama tabel bisa menggunakan nama "calon_mahasiswa"\
+isi kolom tabel seperti ini :\
 CREATE TABLE `nama_tabel` (\
 `id` int(11) NOT NULL,\
 `nama` varchar(50) NOT NULL,\
