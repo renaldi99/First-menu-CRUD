@@ -1,0 +1,64 @@
+body{
+    font-family: sans-serif;
+    background: #d5f0f3;
+}
+
+h3{
+    text-align: center;
+    /*Ketebalan Form*/
+    font-weight: 300
+}
+
+h4{
+    text-align: center;
+}
+
+.link{
+    color: #232323;;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.kotak_daftar{
+	width: 500px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+.form_isi{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.form_jnskelamin{
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.tombol_submit{
+    background: #232323;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.tombol_submit:hover{
+    background: #46de4b;
+    cursor: pointer;
+}
